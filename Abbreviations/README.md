@@ -12,7 +12,7 @@ This folder contains two files:
 
 ## 2. Usage Instructions
 
-For filling out the `Interlinear gloss: Mandarin` column in 'UniversalTemplate', please refer to the abbreviations and their translations found in these two files. The Chinese translations in the files were edited by the center's staff. If you have any suggestions, please feel free to provide feedback.
+For filling out the `Interlinear gloss: Mandarin` column in `UniversalTemplate`, please refer to the abbreviations and their translations found in these two files. The Chinese translations in the files were edited by the center's staff. If you have any suggestions, please feel free to provide feedback.
 
 ## 3. Annotation Guidelines
 
