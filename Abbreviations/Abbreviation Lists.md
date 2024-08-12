@@ -31,7 +31,7 @@
 |DEF	|definite|	有定|
 |DEM|	demonstrative|	指示詞|
 |DET|	determiner|	限定詞|
-|DIST|	distal|	|遠指|
+|DIST|	distal|	遠指|
 |DISTR	|distributive	|分配|
 |DU	|dual	|雙數|
 |DUR	|durative|	持續貌|
