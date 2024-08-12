@@ -13,12 +13,11 @@ This repository contains the Leipzig glossing rules abbreviation tables along wi
 
 ### Referencing the Abbreviation Tables
 
-The abbreviation tables are provided in both Word and Markdown formats. You can reference these tables in your linguistic documentation or research by:
+The abbreviation tables are provided in Markdown formats. You can reference these tables in your linguistic documentation or research by:
 
 1. **Accessing the tables**:
    - The tables are available in the `Abbreviations/` directory.
-   - You can view the Markdown version directly on GitHub, or download the Word documents for offline use.
-
+   - You can view the Markdown version directly on GitHub.
 2. **Using the abbreviations**:
    - Each abbreviation is accompanied by its English meaning and a Chinese translation. You can use these abbreviations to standardize the glossing in your linguistic analyses.
    - For example, the abbreviation `AFF` stands for "Affirmative" in English and is translated as `肯定語氣` in Chinese.
