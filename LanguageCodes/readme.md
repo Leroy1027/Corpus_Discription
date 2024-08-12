@@ -11,7 +11,7 @@ The file `Code_SDLD.md` contains a list of commonly used language codes from the
 ## Instructions for Use
 
 - **SIL Code Column**:  
-  In the `Code_SDLD.md` file, the SIL code column is provided to input the appropriate three-digit language code that corresponds to your linguistic data.
+  In the `UniversalTemplate` file, the SIL code column is provided to input the appropriate three-digit language code that corresponds to your linguistic data.
 
 - **Reference**:  
   You may refer to the ISO-639 column in `Code_SDLD.md` to find the correct three-digit code to fill in the SIL code column.
