@@ -16,7 +16,7 @@ For filling out the `Interlinear gloss: Mandarin` column in `UniversalTemplate`,
 
 ## 3. Annotation Guidelines
 
-To save space, in terms of `Interlinear gloss: Mandarin` field, you can directly use the Leipzig glossing rules system for person and number markings, without translating them into Chinese. For example, the Chinese pronoun "他" can be annotated as `3SG`, without the need to further label it as "第三人稱單數".
+To save space, for `Interlinear gloss: Mandarin` column, you can directly use the Leipzig glossing rules system for person and number markings, without translating them into Chinese. For example, the Chinese pronoun "他" can be annotated as `3SG`, without the need to further label it as "第三人稱單數".
 
 ---
 
