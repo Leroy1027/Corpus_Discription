@@ -87,6 +87,7 @@
 |TR|	transitive|	及物|
 |VOC|	vocative|	呼格|
 
+
 # Further Appendix: Austronesian Abbreviations 
 
 | Abbreviation | English Translation | Chinese Translation |
