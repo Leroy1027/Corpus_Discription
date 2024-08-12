@@ -1,4 +1,4 @@
-# Standard Abbreviation 
+# ISO-639
 
 
 |英語 |語族  |iso 639-3 |方言|
