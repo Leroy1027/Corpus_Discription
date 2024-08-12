@@ -23,8 +23,8 @@
 |Amis/Pangcah|	阿美語|	ami|	Ma lan馬蘭|
 |Tayal	|泰雅語|	tay|	Si ji 四季|
 |Tayal|	泰雅語|	tay|	Wen shui 汶水|
-|Tayal|	泰雅語	|tay	|Yi lan ze ao li 宜蘭澤敖利|
-|Tayal|	泰雅語	|tay	Wan da 萬大|
+|Tayal|	泰雅語	|tay |Yi lan ze ao li 宜蘭澤敖利|
+|Tayal|	泰雅語	|tay	|Wan da 萬大|
 |Tayal|	泰雅語|	tay|	Ze ao li澤敖利|
 |Tayal|	泰雅語|	tay|	Sai kao li ke 賽考利克|
 |Paiwan|	排灣語|	pwn|	Zhong pai中排|
