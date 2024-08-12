@@ -7,3 +7,7 @@
 |3         | third person         | 第三人稱           |
 | A        | agent-like argument of canonical transitive verb        | 典型及物動詞的主事          |
 | ABL          | ablative         | 奪格            |
+| ABS          |absolutive         | 絕對格           |
+| ACC          |accusative         |受格           |
+| ADJ         |adjective         |形容詞           |
+|ADV	|adverb	|副詞
