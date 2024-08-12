@@ -1,4 +1,4 @@
-# Further Appendix: Austronesian Abbreviations 
+# Austronesian Abbreviations 
 
 | Abbreviation | English Translation | Chinese Translation |
 |--------------|---------------------|---------------------|
