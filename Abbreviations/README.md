@@ -12,11 +12,11 @@ This folder contains two files:
 
 ## 2. Usage Instructions
 
-When using the Universal Template's `Interlinear gloss: Mandarin` field, please refer to the abbreviations and their translations found in these two files. The Chinese translations in the files were edited by the center's staff. If you have any suggestions, please feel free to provide feedback.
+For filling out the `Interlinear gloss: Mandarin` column in 'UniversalTemplate', please refer to the abbreviations and their translations found in these two files. The Chinese translations in the files were edited by the center's staff. If you have any suggestions, please feel free to provide feedback.
 
 ## 3. Annotation Guidelines
 
-To save space, when using the `Interlinear gloss: Mandarin` field, you can directly use the Leipzig glossing rules system for person and number markings, without translating them into Chinese. For example, the Chinese pronoun "他" can be annotated as `3SG`, without the need to further label it as "third person singular".
+To save space, in terms of `Interlinear gloss: Mandarin` field, you can directly use the Leipzig glossing rules system for person and number markings, without translating them into Chinese. For example, the Chinese pronoun "他" can be annotated as `3SG`, without the need to further label it as "第三人稱單數".
 
 ---
 
