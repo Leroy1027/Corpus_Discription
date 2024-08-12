@@ -1,23 +1,23 @@
 # Abbreviation Folder
 
-## 1. 文件概述
+## 1. Overview
 
-本資料夾包含兩個檔案，分別如下：
+This folder contains two files:
 
 - **Standard Abbreviation**:  
-  此文件基於 The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses，提供標準化的縮寫列表。資料來源於官方文件，您可以在以下網址查看詳細資訊：[Leipzig Glossing Rules PDF](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf)。
+  This file is based on The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses, providing a list of standardized abbreviations. The source of this data is the official document, which can be accessed at the following link: [Leipzig Glossing Rules PDF](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf).
 
 - **Austronesian_Abbreviation**:  
-  這個檔案包含了南島語語言學常用的縮寫，由中心人員根據實際需求提供。
+  This file contains abbreviations commonly used in Austronesian linguistics, provided by the center's staff based on actual needs.
 
-## 2. 使用說明
+## 2. Usage Instructions
 
-請在使用 Universal Template 的 `Interlinear gloss: Mandarin` 欄位時，參考這兩個檔案中的縮寫對應翻譯。文件中的中文翻譯是由中心人員編輯完成的。如果您對這些翻譯有任何建議，歡迎提供反饋。
+When using the Universal Template's `Interlinear gloss: Mandarin` field, please refer to the abbreviations and their translations found in these two files. The Chinese translations in the files were edited by the center's staff. If you have any suggestions, please feel free to provide feedback.
 
-## 3. 標註指南
+## 3. Annotation Guidelines
 
-為節省空間，在使用 `Interlinear gloss: Mandarin` 時，人稱及單複數標記可以直接使用 Leipzig glossing rules 的標準縮寫系統，而無需再翻譯成中文。例如，華語的「他」可以直接標註為 `3SG`，不需標註為「第三人稱單數」。
+To save space, when using the `Interlinear gloss: Mandarin` field, you can directly use the Leipzig glossing rules system for person and number markings, without translating them into Chinese. For example, the Chinese pronoun "他" can be annotated as `3SG`, without the need to further label it as "third person singular".
 
 ---
 
-感謝您對這個專案的關注與貢獻。如有任何疑問或建議，請隨時與我們聯繫。
+Thank you for your attention and contributions to this project. If you have any questions or suggestions, please feel free to contact us.
