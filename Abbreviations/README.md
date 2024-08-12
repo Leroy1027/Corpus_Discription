@@ -7,7 +7,7 @@ This folder contains two files:
 - **Standard Abbreviation**:  
   This file is based on The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses, providing a list of standardized abbreviations. The source of this data is the official document, which can be accessed at the following link: [Leipzig Glossing Rules PDF](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf).
 
-- **Austronesian_Abbreviation**:  
+- **Further Appendix**:  
   This file contains abbreviations commonly used in Austronesian linguistics, provided by the center's staff based on actual needs.
 
 ## 2. Usage Instructions
