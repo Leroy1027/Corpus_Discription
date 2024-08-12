@@ -17,7 +17,7 @@
 |Hlaʼalua|	拉阿魯哇語|	sxr|	|
 |Thau|	邵語|	ssf	| |
 |Amis/Pangcah|	阿美語|	ami|	Siwkolan 秀姑巒|
-|Amis/Pangcah|	阿美語|	ami	Nanshi 南勢|
+|Amis/Pangcah|	阿美語|	ami	|Nanshi 南勢|
 |Amis/Pangcah|	阿美語|	ami|	Heng chun 恆春|
 |Amis/Pangcah|	阿美語|	ami	|Hai an 海岸|
 |Amis/Pangcah|	阿美語|	ami|	Ma lan馬蘭|
@@ -37,9 +37,9 @@
 |Drekai	|魯凱語	|dru	|Da wu大武|
 |Drekai	|魯凱語	|dru	|Duo na 多納|
 |Drekai|	魯凱語|	dru|	Dong 東|
-|Drekai|	魯凱語|	dru	Mao lin| 茂林|
-|Drekai|	魯凱語|	dru	Wan shan| 萬山|
-|Drekai|	魯凱語|	dru	Wu tai| 霧臺|
+|Drekai|	魯凱語|	dru	|Mao lin 茂林|
+|Drekai|	魯凱語|	dru	|Wan shan 萬山|
+|Drekai|	魯凱語|	dru	|Wu tai 霧臺|
 |Kbalan|	噶瑪蘭語|	ckv||	
 |SaySiyat|	賽夏語	|xsy||	
 |Seediq|	賽德克語|	trv|	Dou da 都達|
