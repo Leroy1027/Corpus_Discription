@@ -61,7 +61,7 @@
 |OBL|	oblique|	斜格|
 |P	|patient-like argument of canonical transitive verb	|典型及物動詞的受事|
 |PASS|	passive|	被動|
-|PFV|	perfective|	完成體|
+|PFV|	perfective|	完成貌|
 |PL	|plural|	複數|
 |POSS|	possessive|	所有格|
 |PRED|	predicative|	謂語|
